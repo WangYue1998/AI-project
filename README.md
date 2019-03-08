@@ -32,7 +32,7 @@ Below is the demo of text test. The user ask question through text.
 
 https://youtu.be/VchJBKMimYo  
 
-This demo is the audio test from chatbot perspective. The user ask audio questions.   
+This demo is the audio test from chatbot's perspective. The user ask audio questions.   
 
 ![](audio.gif)  
 
