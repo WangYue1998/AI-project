@@ -9,11 +9,18 @@ Users are only allowed to send text or audio to ask questions.
 
 ## ACHIEVED GOALS  
 Multiple selective answers to the same question and provides a default answer.  
+
 Chatbot can answer questions through regular expressions, pattern matching, keyword extraction, syntax conversion.  
+
 It can extract users' intents through regular expressions.  
-The user’s entities can be extracted by a support vector machine. Based on predefined entities’ types to identify an entity.   
+
+The user’s entities can be extracted by a support vector machine. 
+
 Construct a local basic chat robot system through Rasa NLU to explore the database using natural language.  
-Implement multiple rounds of multi-query technology for state machines and provide explanations and answers based on contextual issues.  The chatbot can achieve receiving the audio from the user and reply the information using Google Speech Recognition.
+
+Implement multiple rounds of multi-query technology for state machines and provide explanations and answers based on contextual issues.
+
+The chatbot can receive the audio from the user and reply the information using Google Speech Recognition.
 
 
 ## DEMO
