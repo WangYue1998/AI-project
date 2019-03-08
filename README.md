@@ -1,7 +1,7 @@
 # AI-project  
 
 ## DESCRIPTION
-This is a chatbot that can answer questions on stock price, trading volume and marketing value. 
+This is a chatbot named Yue that can answer questions on stock price, trading volume and marketing value. 
 
 The chatbot is integrated into Wechat, using iexfiance API.
 
