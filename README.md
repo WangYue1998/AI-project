@@ -9,3 +9,6 @@ Users are only allowed to send text or audio to ask questions.
 
 
 Text test and audio test show the results of this product.
+https://youtu.be/5-321E-vq4k
+https://youtu.be/VchJBKMimYo
+
